@@ -28,41 +28,41 @@
                 <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
                 <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
                 <li data-target="#carouselExampleCaptions" data-slide-to="4"></li>
-                </ol>
+                </ol>  
                 <div id="banner" class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="./img/slide1.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./components/img/slide1.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
-                    <h2>{{paisaje1}}</h2>
-                    <p>{{legenda1}}</p>
+                    <h2>A</h2>
+                    <p> aaaaa </p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./img/slide2.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./componentsimg/slide2.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
-                        <h2>{{paisaje2}}</h2>
-                        <p>{{legenda2}}</p>
+                        <h2>B</h2>
+                        <p> bbbbb </p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./img/slide3.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./components/img/slide3.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
-                        <h2>{{paisaje3}}</h2>
-                        <p>{{legenda3}}</p>
+                        <h2>C</h2>
+                        <p>ccccc</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./img/slide4.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./components/img/slide4.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
-                        <h2>{{paisaje4}}</h2>
-                        <p>{{legenda4}}</p>
+                        <h2>D</h2>
+                        <p>ddddddd</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./img/slide5.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./components/img/slide5.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
-                        <h2>{{paisaje5}}</h2>
-                        <p>{{legenda5}}</p>
+                        <h2>E</h2>
+                        <p> eeeeee </p>
                     </div>
                 </div>
                 </div>

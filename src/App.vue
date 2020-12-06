@@ -3,11 +3,11 @@
 
     <HeaderBanner></HeaderBanner>
 
-    <a name="servicios"></a>
-    <div class="card-deck" v-for="(item,index) of servicios" :key="index">
-      <ServiciosData v-bind:servicio="item"></ServiciosData>
-    </div>
 
+
+
+    <ServiciosData></ServiciosData>
+    
 
 
   </div>
