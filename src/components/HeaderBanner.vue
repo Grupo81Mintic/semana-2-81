@@ -31,35 +31,35 @@
                 </ol>  
                 <div id="banner" class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="./components/img/slide1.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./assets/img/slide1.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
-                    <h2>A</h2>
+                    <h2>D</h2>
                     <p> aaaaa </p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./componentsimg/slide2.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./assets/img/slide2.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>B</h2>
                         <p> bbbbb </p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./components/img/slide3.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./assets/img/slide3.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>C</h2>
                         <p>ccccc</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./components/img/slide4.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./assets/img/slide4.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>D</h2>
                         <p>ddddddd</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="./components/img/slide5.jpg" class="d-block w-100" alt="..." height="600px">
+                    <img src="./assets/img/slide5.jpg" class="d-block w-100" alt="..." height="600px">
                     <div class="carousel-caption d-none d-md-block">
                         <h2>E</h2>
                         <p> eeeeee </p>
